@@ -2,7 +2,7 @@ import React from 'react';
 import { Platform, Text, View, Button } from 'react-native';
 import { StackNavigator } from 'react-navigation';
 import Home from './features/home';
-import Login from './features/login';
+import Login from './features/login/index';
 
 const AuthenticatedRoutes = StackNavigator({
   Home: { screen: Home },
