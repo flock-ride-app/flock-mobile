@@ -1,7 +1,7 @@
 dependencies: \
-  /Users/alex/Code/taivara/flock-mobile/node_modules/react-native/React/Views/RCTBorderDrawing.m \
-  /Users/alex/Code/taivara/flock-mobile/node_modules/react-native/React/Views/RCTBorderDrawing.h \
-  /Users/alex/Code/taivara/flock-mobile/node_modules/react-native/React/Views/RCTBorderStyle.h \
-  /Users/alex/Code/taivara/flock-mobile/node_modules/react-native/React/Base/RCTLog.h \
-  /Users/alex/Code/taivara/flock-mobile/node_modules/react-native/React/Base/RCTAssert.h \
-  /Users/alex/Code/taivara/flock-mobile/node_modules/react-native/React/Base/RCTDefines.h
+  /Users/uchilaka/Developer/flock-mobile/node_modules/react-native/React/Views/RCTBorderDrawing.m \
+  /Users/uchilaka/Developer/flock-mobile/node_modules/react-native/React/Views/RCTBorderDrawing.h \
+  /Users/uchilaka/Developer/flock-mobile/node_modules/react-native/React/Views/RCTBorderStyle.h \
+  /Users/uchilaka/Developer/flock-mobile/node_modules/react-native/React/Base/RCTLog.h \
+  /Users/uchilaka/Developer/flock-mobile/node_modules/react-native/React/Base/RCTAssert.h \
+  /Users/uchilaka/Developer/flock-mobile/node_modules/react-native/React/Base/RCTDefines.h

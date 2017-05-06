@@ -1,5 +1,5 @@
 dependencies: \
-  /Users/alex/Code/taivara/flock-mobile/ios/flockTests/flockTests.m \
+  /Users/uchilaka/Developer/flock-mobile/ios/flockTests/flockTests.m \
   /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/Library/Frameworks/XCTest.framework/Modules/module.modulemap \
   /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/Library/Frameworks/XCTest.framework/Headers/XCUIRemote.h \
   /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/Library/Frameworks/XCTest.framework/Headers/XCUIKeyboardKeys.h \
@@ -35,13 +35,13 @@ dependencies: \
   /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/Library/Frameworks/XCTest.framework/Headers/XCTestErrors.h \
   /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/Library/Frameworks/XCTest.framework/Headers/XCTestDefines.h \
   /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/Library/Frameworks/XCTest.framework/Headers/XCTest.h \
-  /Users/alex/Code/taivara/flock-mobile/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTLog.h \
-  /Users/alex/Code/taivara/flock-mobile/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTAssert.h \
-  /Users/alex/Code/taivara/flock-mobile/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTDefines.h \
-  /Users/alex/Code/taivara/flock-mobile/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTRootView.h \
-  /Users/alex/Code/taivara/flock-mobile/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTBridge.h \
-  /Users/alex/Code/taivara/flock-mobile/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTBridgeDelegate.h \
-  /Users/alex/Code/taivara/flock-mobile/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTJavaScriptLoader.h \
-  /Users/alex/Code/taivara/flock-mobile/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTBridgeModule.h \
-  /Users/alex/Code/taivara/flock-mobile/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTFrameUpdate.h \
-  /Users/alex/Code/taivara/flock-mobile/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTInvalidating.h
+  /Users/uchilaka/Developer/flock-mobile/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTLog.h \
+  /Users/uchilaka/Developer/flock-mobile/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTAssert.h \
+  /Users/uchilaka/Developer/flock-mobile/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTDefines.h \
+  /Users/uchilaka/Developer/flock-mobile/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTRootView.h \
+  /Users/uchilaka/Developer/flock-mobile/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTBridge.h \
+  /Users/uchilaka/Developer/flock-mobile/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTBridgeDelegate.h \
+  /Users/uchilaka/Developer/flock-mobile/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTJavaScriptLoader.h \
+  /Users/uchilaka/Developer/flock-mobile/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTBridgeModule.h \
+  /Users/uchilaka/Developer/flock-mobile/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTFrameUpdate.h \
+  /Users/uchilaka/Developer/flock-mobile/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTInvalidating.h

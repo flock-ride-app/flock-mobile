@@ -1,2 +1,2 @@
-dependencies: /Users/alex/Code/taivara/flock-mobile/ios/flock/main.m \
-  /Users/alex/Code/taivara/flock-mobile/ios/flock/AppDelegate.h
+dependencies: /Users/uchilaka/Developer/flock-mobile/ios/flock/main.m \
+  /Users/uchilaka/Developer/flock-mobile/ios/flock/AppDelegate.h
