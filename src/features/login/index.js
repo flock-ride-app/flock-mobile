@@ -43,24 +43,4 @@ export default class Login extends React.Component {
         );
     }
 
-};
-/*
-const styles = StyleSheet.create({
-    defaultContainer: {
-        padding: 10
-    },
-    input: {
-        height: 35,
-        marginTop: 10,
-        backgroundColor: '#fff',
-        padding: 10
-    },
-    title: {
-        fontSize: 19,
-        fontWeight: 'bold',
-        textAlign: 'center',
-        paddingTop: 55,
-        paddingBottom: 5
-    }
-});
-*/
+}
