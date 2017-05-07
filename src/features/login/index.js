@@ -1,6 +1,8 @@
 import React from 'react';
 import { View, TextInput, StyleSheet } from 'react-native';
-import { Container, Content, Text, Button, Form, Label, Item, Input } from 'native-base';
+import { Container, Content, Text, Button, Form, Label, Item, Input, Grid, Row, H1 } from 'native-base';
+
+const styles = require('../../utils/styles');
 
 export default class Login extends React.Component {
 
@@ -9,20 +11,28 @@ export default class Login extends React.Component {
         const { navigation: { navigate } } = this.props;
 
         return (
-            <Container>
+            <Container style={{ backgroundColor: '#67c28b' }}>
                 <Content>
                     <Form>
+                        <Grid>
+                            <Row style={[styles.defaultContainer, { marginTop: 40 }]}>
+                                <H1 style={{ color: '#fff' }}>This is Flock.</H1>
+                            </Row>
+                            <Row style={styles.defaultContainer}>
+                                <Text style={{ color: '#fff' }}>Flock helps match commuters, elimiate solo riders and reduce traffic.</Text>
+                            </Row>
+                        </Grid>
                         <Item floatingLabel>
                             <Label>Email or Username</Label>
-                            <Input />
+                            <Input style={{ color: '#fff' }} />
                         </Item>
 
                         <Item floatingLabel>
                             <Label>Password</Label>
-                            <Input />
+                            <Input style={{ color: '#fff' }} />
                         </Item>
 
-                        <Button large full
+                        <Button large full success
                             onPress={() => navigate('AuthenticatedRoutes')}>
                             <Text>Sign in</Text>
                         </Button>
@@ -34,12 +44,10 @@ export default class Login extends React.Component {
     }
 
 };
-
+/*
 const styles = StyleSheet.create({
-    container: {
-        justifyContent: 'center',
-        flexDirection: 'column',
-        flex: 1,
+    defaultContainer: {
+        padding: 10
     },
     input: {
         height: 35,
@@ -55,3 +63,4 @@ const styles = StyleSheet.create({
         paddingBottom: 5
     }
 });
+*/
